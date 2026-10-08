@@ -70,10 +70,10 @@ Welcome to the definitive curated ecosystem guide to **managed file transfer (MF
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[rclone](https://github.com/rclone/rclone)** [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
-  **The Swiss army knife of cloud storage sync**, MIT licensed. **50K+ GitHub stars** — **supports SFTP, FTP, WebDAV, and 70+ cloud storage providers** . **The most versatile open-source file transfer tool** . 🔄 ⚡
+  **The Swiss army knife of cloud storage sync**, MIT licensed. **50K+ GitHub_Stars** — **supports SFTP, FTP, WebDAV, and 70+ cloud storage providers** . **The most versatile open-source file transfer tool** . 🔄 ⚡
 
 - **[Paramiko](https://github.com/paramiko/paramiko)** [![Stars](https://img.shields.io/github/stars/paramiko/paramiko?style=social&color=white)](https://github.com/paramiko/paramiko/stargazers)  
   **The leading native Python SSHv2 protocol library**, LGPL-2.1 licensed. **The standard for Python SFTP client & server development** . **Used by Ansible, Fabric, and thousands of automation frameworks** . **The definitive Python SFTP library** . 🐍 🔐
